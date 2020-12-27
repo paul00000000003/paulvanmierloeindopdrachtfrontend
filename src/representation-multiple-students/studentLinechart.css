@@ -1,0 +1,48 @@
+.studentLine {
+    list-style-type: none;
+}
+
+.sortScore {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.sortScore_niceAndBoth {
+    width: 100px;
+}
+
+.sortScore_difficult {
+    width: 150px;
+}
+
+.radio_score {
+    margin-top: 20px;
+}
+
+.button {
+    margin: 40px;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.line {
+    list-style-type: none;
+    width: 300px;
+}
+
+.linkLine {
+    color: black;
+}
+
+.lineMultipleStudents {
+    color: black;
+    width: 200px;
+}
+
+.ulListMultipleStudents {
+    display: flex;
+}
+
+
+/*# sourceMappingURL=studentHistogram.css.map */

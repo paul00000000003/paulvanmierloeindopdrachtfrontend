@@ -1,0 +1,63 @@
+.studentLine {
+    list-style-type: none;
+}
+
+.sortScoreLabel {
+    width: 150px;
+}
+
+.sortScore {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.sortScore_niceAndBoth {
+    width: 100px;
+}
+
+.sortScore_difficult {
+    width: 150px;
+}
+
+.radio_score {
+    margin-top: 20px;
+}
+
+.button {
+    margin: 40px;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.line {
+    list-style-type: none;
+}
+
+.linkLine {
+    color: black;
+}
+
+.title {
+    width: 800px;
+    margin: auto;
+    font-weight: normal;
+    transform: translate(50px);
+}
+
+#shiftPictureMultiple {
+    transform: translate(600px, 200px);
+}
+
+#remark {
+    height: 1em;
+    width: 150px;
+}
+
+#ulListMS {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/*# sourceMappingURL=weergavemeerderestudenten.css.map */
